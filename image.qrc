@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bold.jpeg</file>
+        <file>copy.jpg</file>
+        <file>cut.png</file>
+        <file>download.jpeg</file>
+        <file>images.png</file>
+        <file>New.jpg</file>
+        <file>open1.jpeg</file>
+        <file>paste.png</file>
+        <file>Subscript.png</file>
+        <file>Undo1.jpeg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Resume">
+        <file>About Me.rtf</file>
+    </qresource>
+</RCC>
