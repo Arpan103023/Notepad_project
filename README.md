@@ -14,5 +14,5 @@ What Has Been Done --
  
  
  
- About Me option is not working in my system so I Have  attached my resume in mail
+ About Me option is not working in my system I have cheekced all the the things but there is nothing wrong in the code so I Have  attached my resume in mail. 
  
